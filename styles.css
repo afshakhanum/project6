@@ -63,7 +63,7 @@ input::-webkit-input-placeholder{
 .content{
     flex: 100%;
     height: 40vh;
-    padding: 30px;
+    padding-top: 20px;
 }
 .img{
     flex: 100%;
@@ -73,8 +73,8 @@ input::-webkit-input-placeholder{
     background-repeat: no-repeat;
     background-size: contain;
     object-fit: contain;
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
     background-position: center;
 }
 .icons{
