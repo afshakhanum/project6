@@ -13,7 +13,8 @@
     font-size: 20px;
     color:hsl(0, 0%, 59%) ;
     font-family: 'Libre Franklin';
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+    margin: 0%;
 }
 .block{
     font-size: 20px;
@@ -62,24 +63,23 @@ input::-webkit-input-placeholder{
 }
 .content{
     flex: 100%;
-    height: 30vh;
+    height: 40vh;
     padding-top: 20px;
 }
 .img{
     flex: 100%;
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     background-image: url(images/illustration-dashboard.png);
     background-repeat: no-repeat;
     background-size: contain;
     object-fit: contain;
-    /* margin-left: auto;
-    margin-right: auto; */
+    margin: 0%;
     background-position: center;
 }
 .icons{
     flex: 100%;
-    height: 30vh;
+    height: 10vh;
     text-align: center;
 }
 .copy{
@@ -124,14 +124,14 @@ input::-webkit-input-placeholder{
     }
     .content{
         flex: 100%;
-        height: 30vh;
+        height: 40vh;
         padding-top: 20px;
         padding-bottom: 0px;
     }
     .img{
         flex: 100%;
         width: 100%;
-        height: 60vh;
+        height: 50vh;
         background-image: url(images/illustration-dashboard.png);
         background-repeat: no-repeat;
         background-size: contain;
