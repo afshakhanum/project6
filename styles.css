@@ -63,7 +63,7 @@ input::-webkit-input-placeholder{
 }
 .content{
     flex: 100%;
-    height: 35vh;
+    height: 40vh;
     padding-top: 20px;
 }
 .img{
